@@ -438,7 +438,7 @@ print(f"Average time: {time_taken/100:.3f}s")
 
 **Do not** create public issues for security vulnerabilities.
 
-Email: security@example.com
+Email: suriyasureshkumarkannian@gmail.com
 
 ---
 
@@ -545,7 +545,9 @@ open docs/_build/index.html
 ### Questions?
 
 - 💬 Ask in [GitHub Discussions](https://github.com/suriyasureshok/geneflow/discussions/new)
-- 📧 Email: dev@example.com
+- 📧 Email: suriyasureshkumarkannian@gmail.com
+- 📱 Phone: +91 8072816532
+- 💼 LinkedIn: [Suriya Sureshkumar](https://linkedin.com/in/suriyasurreshkumar)
 - 🐦 Twitter: [@GeneFlow](https://twitter.com/geneflow)
 
 ---

@@ -349,7 +349,7 @@ If you use GeneFlow in your research, please cite:
 
 ```bibtex
 @software{geneflow2024,
-  author = {Suriya Suresh},
+  author = {Suriya Sureshkumar},
   title = {GeneFlow: ADK-Powered Bioinformatics Copilot},
   year = {2024},
   url = {https://github.com/suriyasureshok/geneflow}
@@ -365,7 +365,9 @@ If you use GeneFlow in your research, please cite:
 
 ## Support
 
-- 📧 Email: suriya@example.com
+- 📧 Email: suriyasureshkumarkannian@gmail.com
+- 📱 Phone: +91 8072816532
+- 💼 LinkedIn: [Suriya Sureshkumar](https://linkedin.com/in/suriyasurreshkumar)
 - 💬 Issues: [GitHub Issues](https://github.com/suriyasureshok/geneflow/issues)
 - 📚 Documentation: [Full Docs](https://github.com/suriyasureshok/geneflow/wiki)
 

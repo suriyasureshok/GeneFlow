@@ -384,7 +384,7 @@ QUICK_REFERENCE.md
 |------------|--|--|
 | [🚀 Quick Start](README.md#quick-start) | [🏗️ Architecture](Architecture.md) | [🔌 API Reference](API_GUIDE.md#core-api) |
 | [📚 Modules](Modules.md) | [🚀 Deploy](DEPLOYMENT_GUIDE.md) | [🤝 Contribute](CONTRIBUTING.md) |
-| [⚡ Cheat Sheet](QUICK_REFERENCE.md) | [💬 GitHub Issues](https://github.com/suriyasureshok/geneflow/issues) | [📧 Email Support](mailto:dev@example.com) |
+| [⚡ Cheat Sheet](QUICK_REFERENCE.md) | [💬 GitHub Issues](https://github.com/suriyasureshok/geneflow/issues) | [📧 Email Support](mailto:suriyasureshkumarkannian@gmail.com) |
 
 ---
 

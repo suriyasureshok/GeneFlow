@@ -567,7 +567,7 @@ GeneFlow/
 
 **Last Updated**: November 2024
 **Version**: 1.0.0
-**Maintainer**: GeneFlow Development Team
+**Maintainer**: Suriya Sureshkumar ([GitHub](https://github.com/suriyasureshok) | [Email](mailto:suriyasureshkumarkannian@gmail.com) | [LinkedIn](https://linkedin.com/in/suriyasurreshkumar))
 
 ---
 
