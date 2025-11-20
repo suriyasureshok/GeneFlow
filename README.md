@@ -209,13 +209,13 @@ print(result2['response'])
 
 ## Performance Characteristics
 
-| Operation | Time | Tokens | Cost Est. |
-|-----------|------|--------|-----------|
-| Chat Response | 1-3s | 200-500 | <$0.01 |
-| Sequence Analysis | 5-10s | 500-1000 | ~$0.01 |
-| Full Pipeline | 30-60s | 2000-5000 | ~$0.05 |
-| PDF Report Gen | 5-15s | - | ~$0.01 |
-| 3D Structure Gen | 10-20s | - | <$0.01 |
+| Operation | Time | Tokens |
+|-----------|------|--------|
+| Chat Response | 1-3s | 200-500 |
+| Sequence Analysis | 5-15s | 500-1000 |
+| Full Pipeline | 60-120s | 2000-5000 |
+| PDF Report Gen | 5-15s | - | 
+| 3D Structure Gen | 10-20s | - |
 
 ## Configuration
 
@@ -374,4 +374,5 @@ If you use GeneFlow in your research, please cite:
 ---
 
 **Last Updated**: November 2024
+
 **Version**: 1.0.0
